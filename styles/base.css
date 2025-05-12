@@ -256,11 +256,9 @@ main {
 
 .card-01 h2 {
     grid-row: 1;
-<<<<<<< HEAD
-    
-=======
 
->>>>>>> 1a7ea8e2de50efe1c071affa389ccc444e738ea7
+
+
     color: white;
     background-color: rgb(39, 62, 104);
     padding: 20px;
@@ -418,13 +416,13 @@ footer {
     color: var(--headline-color-on-color);
     text-align: center;
     height: 100px;
-<<<<<<< HEAD
-    padding: 19px ;
-=======
-    padding: 10px 0;
->>>>>>> 1a7ea8e2de50efe1c071affa389ccc444e738ea7
+
+    padding: 29px ;
+
+   
 
 }
+
 
 footer p {
     margin: 0px;
