@@ -60,7 +60,7 @@ body {
   
   footer {
     background: rgb(80, 56, 13);
-    padding: 2rem;
+    padding: 10px;
     text-align: center;
     grid-column: 1 / 4;
   }
