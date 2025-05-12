@@ -254,7 +254,7 @@ main {
 
 .card-01 h2 {
     grid-row: 1;
-    font-size: px;
+    
     color: white;
     background-color: rgb(39, 62, 104);
     padding: 20px;
@@ -409,7 +409,7 @@ footer {
     color: var(--headline-color-on-color);
     text-align: center;
     height: 100px;
-    padding: px 0;
+    padding: 19px ;
 
 }
 
